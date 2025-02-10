@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mounika-annareddy14
+- 👋 Hi, I’m @Mounika-Annareddy
 - 👀 I’m interested in leveraging data to uncover patterns and insights that drive impactful decisions and innovations.
 - 🌱 I’m currently learning  fundamental concepts in machine learning, statistical analysis, and data visualization to build a strong foundation in data science.
 - 💞️ I’m looking to collaborate on projects that apply data science to real-world problems, particularly in fields like healthcare, finance, or environmental sustainability.
